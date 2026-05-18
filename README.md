@@ -13,11 +13,6 @@ A beautiful, interactive, and fully responsive animated birthday greeting websit
 - **🎈 Floating Elements:** Floating balloons, stars, and flowers create a festive and joyous atmosphere.
 - **🎨 Custom Typography:** Beautifully paired Google Fonts (Dancing Script, Sriracha, Titan One, Coiny, Nerko One) to give a premium feel.
 
-## 🚀 Live Demo
-
-You can view the live deployment of this project at:
-**[Insert Your Netlify/Vercel Link Here]**
-
 ## 🛠️ Technologies Used
 
 - **HTML5:** For the structural markup of the website.
@@ -72,12 +67,12 @@ Want to use this for someone else? It's incredibly easy to customize!
 
 | Main Screen | Open Letter |
 | ----------- | ----------- |
-| <img src="[Link to screenshot 1]" width="400"> | <img src="[Link to screenshot 2]" width="400"> |
+| <img src="Img.png" width="400"> | <img src="img2.png" width="400"> |
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check out the [issues page](https://github.com/YourUsername/Birthday-Gift-Animation/issues).
+Feel free to check out the [issues page](https://github.com/akarshxs/Birthday-Animation-/issues).
 
 ## 📝 License
 
