@@ -67,7 +67,7 @@ Want to use this for someone else? It's incredibly easy to customize!
 
 | Main Screen | Open Letter |
 | ----------- | ----------- |
-| <img src="Img.png" width="400"> | <img src="img2.png" width="400"> |
+| <img src="img.png" width="400"> | <img src="img2.png" width="400"> |
 
 ## 🤝 Contributing
 
